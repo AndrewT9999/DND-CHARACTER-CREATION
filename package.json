@@ -1,0 +1,18 @@
+{
+  "name": "DND CHARACTER CREATION",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "ejs": "^3.1.6",
+    "path": "^0.12.7",
+    "body-parser": "^1.19.2",
+    "cookie-parser": "^1.4.6",
+    "mysql": "^2.18.1",
+    "quick.db": "^7.1.3",
+    "unirest": "^0.6.0"
+  }
+}
